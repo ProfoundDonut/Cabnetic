@@ -2,10 +2,11 @@
 ## About
 
 ## To-Do
-
+- Add about section
+- Add rest of to-do list
 ## info
 - Does not work with mac currently.
-- You need python, install it (here)[http://www.python.org/download]
+- You need python, install it [here](http://www.python.org/download)
 
 ## Installation Guide
 1. Download and unpack zip files
