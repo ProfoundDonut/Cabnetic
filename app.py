@@ -75,6 +75,9 @@ create|creates new container.|new <id> content
 find|finds container based on id.|find <id>
 del|deletes container based on id.|del <id>
 reset|deletes all containers.|reset
+close|closes cabnetic|close
         """)
+    elif command == "close":
+        run = False
     else:
         handler(command)
